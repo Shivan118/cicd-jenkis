@@ -36,3 +36,5 @@ docker cp modelv1:/code/src/TestResults.xml .
 # Optional
 docker exec -d -w /code modelv1 python main.py
 docker exec -d -w /code modelv1 uvicorn main:app --proxy-headers --host 0.0.0.0 --port 8085
+
+#changes

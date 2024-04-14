@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: Packaging-ML-Models
+Version: 0.0.1
+Author: Success_Analytics
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: joblib
+Requires-Dist: scikit-learn
+Requires-Dist: scipy
+Requires-Dist: pytest
+Requires-Dist: setuptools
+Requires-Dist: wheel
+Requires-Dist: pytest
+Requires-Dist: fastapi
+Requires-Dist: pydantic
+Requires-Dist: uvicorn
